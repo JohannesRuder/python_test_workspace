@@ -2,6 +2,8 @@
     "editor.formatOnSave": true,
     "files.insertFinalNewline": true,
     "python.linting.pycodestyleEnabled": true,
-    "python.linting.pycodestyleArgs": ["--max-line-length=100"],
+    "python.linting.pycodestyleArgs": [
+        "--max-line-length=100"
+    ],
     "python.linting.enabled": true
 }
